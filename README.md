@@ -10,6 +10,10 @@ This project aims to add unique enhancements to the traditional Flappy Bird game
   - **Pipe Destruction:** Eggs destroy pipes upon collision, clearing the bird's path.
   - **Self-Destruction Risk:** If an egg is shot while the bird is facing left, it results in the bird hitting itself, ending the game.
 - **Boundary Conditions:** The game ends if the bird flies out of the designated boundaries.
+## Some images from the game
+![Ekran görüntüsü 2025-03-18 172913](https://github.com/user-attachments/assets/46a21b25-e93d-4158-8a6e-a93e4bdd626e)
+![Ekran görüntüsü 2025-03-18 173151](https://github.com/user-attachments/assets/c801c2c7-39ac-4e49-9042-dcec24788a0e)
+
 
 ## Installation
 1. **Clone the Repository:**
